@@ -1,8 +1,27 @@
 body {
-	margin: 25%;
-	backgroundcolor: #9d8ea4;
+	text-align: center;
+	background-color: #b0b8d5;
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 3em;
+	
+}
+ul {
+	;
+	margin-right: 3%;
+}
+li {
+	color: white;
+}
+ul li{
+	list-style: none;
+}
+footer a {
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+	
 }
